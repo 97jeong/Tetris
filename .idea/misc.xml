@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TetrisGame/app/src/main/res/layout/activity_game.xml" value="0.2928759894459103" />
+        <entry key="..\:/TetrisGame/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Administrator/Desktop/TetrisGame/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1735" />
+        <entry key="..\:/Users/Administrator/Desktop/TetrisGame/app/src/main/res/layout/activity_game.xml" value="0.27247191011235955" />
+        <entry key="..\:/Users/Administrator/Desktop/TetrisGame/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/Administrator/Desktop/TetrisGame/app/src/main/res/layout/activity_rank.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/Administrator/Desktop/TetrisGame/app/src/main/res/layout/activity_rank_upload.xml" value="0.16621376811594202" />
+        <entry key="..\:/Users/Administrator/Desktop/TetrisGame/app/src/main/res/layout/listview.xml" value="0.25" />
+        <entry key="..\:/Users/COMPUTER/Downloads/TetrisGame/app/src/main/res/layout/activity_game.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/COMPUTER/Downloads/TetrisGame/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
